@@ -1,0 +1,60 @@
+body{
+    background: #2B2D2F none repeat scroll 0 0;
+    color: white !important;
+}
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+  }
+.navbar-fixed-top{
+    background-color: #FFF1B0;
+    font-family: cursive;
+    /*margin-right: 0%;
+    /*border-radius:! 5% 5%;*/
+    color: black !important;
+    font-size: 20px;
+    font-weight: 600;
+
+
+    
+}
+  	
+
+.navbar-fixed-top li a:hover {
+  color: #18BC9C !important;
+}
+@media (min-width: 200px) {
+  .carousel-inner{ height: 300px !important;}
+}
+
+@media (min-width: 300px) {
+  .carousel-inne{ height: 300px !important; }
+  
+}
+
+@media (min-width: 400px) {
+  .carousel-inne{ height: 300px !important; }
+  
+}
+@media (min-width: 600px) {
+  .carousel-inne{ height: 500px !important ;}
+}
+
+@media (min-width: 800px) {
+  .carousel-inne{ height: 900px !important ; }
+}
+
+.logo{
+    width: 100;
+    min-height: 90px;
+    margin-left: -55%;
+}
+.slider-text {
+    left: 15px;
+    margin-top: 30%;
+    position: absolute;
+    top: 50%;
+}
+.logo-small:hover{
+  font-size: 80px;
+}
